@@ -1,2 +1,5 @@
 story.txt
+story.txt story.txt story.txt
+story.txt
+
 story.txt
